@@ -28,6 +28,3 @@
 ![Demo](img.gif)
 
 
-# Watch Demo:
-
-https://www.youtube.com/watch?v=SnoTsGAR9aY

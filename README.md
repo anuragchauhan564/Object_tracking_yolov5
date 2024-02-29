@@ -4,13 +4,12 @@
 
 
 ## Usage
-- 1 Clone the repository:
--  git clone - https://github.com/ZQPei/deep_sort_pytorch/tree/master
+Clone the repository:
+       git clone  https://github.com/ZQPei/deep_sort_pytorch/tree/master
 
 - clone the YOLOv5 repository
 
 ## Create a Environment
- run -
        conda create -n DeepSortEve python=3.7 
 ## Activate the environment
        conda activate DeepSortEve 
